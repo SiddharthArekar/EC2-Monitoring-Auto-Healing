@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 
 This project demonstrates a real-world cloud monitoring and auto-remediation system using AWS services.
+<img width="2816" height="1536" alt="Workflow Cloud Monitaring" src="https://github.com/user-attachments/assets/f39bac14-d75c-4a86-a0ac-bcb66eafc028" />
 
 It automatically detects high CPU usage on an EC2 instance and triggers a reboot to recover the system.
 
